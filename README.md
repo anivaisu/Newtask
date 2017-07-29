@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0.
 
-##NPM Install
+## NPM Install
 After clone or download this project run `npm install` command.
 
 ## Development server
